@@ -1,0 +1,1 @@
+export const SEND_NEWS_DATA = 'SEND_NEWS_DATA'
