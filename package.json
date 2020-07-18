@@ -10,7 +10,7 @@
     "axios": "^0.17.1",
     "core-js": "^2.6.9",
     "infinite-scroll": "^3.0.6",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "newsapi": "^2.4.0",
     "node": "^12.9.1",
